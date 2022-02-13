@@ -1,0 +1,34 @@
+.btn-blue {
+  background-color: #EF9E8C;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto', serif;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-blue a {
+  text-decoration: none;
+}
+
+.btn-blue a:link {
+text-decoration: none;
+color:#000000;
+}
+
+.btn-blue a:visited {
+text-decoration: none;
+color:#000000;
+}
+
+.btn-blue a:hover {
+text-decoration: none;
+color:#6D71DD;
+}
+
+.btn-blue a:active {
+text-decoration: none;
+color:#000000;
+}

@@ -1,0 +1,13 @@
+.footer {
+  padding: 10px;
+  font-family: 'Lora', serif;
+  color: white;
+  text-decoration: none;
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #005C9B;
+  text-align: center;
+  margin-top: 40px;
+}
